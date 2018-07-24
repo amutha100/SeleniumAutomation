@@ -1,0 +1,65 @@
+2018-07-23 14:36:27,362 INFO  [Log] **************************************************************************************** 
+2018-07-23 14:36:27,363 INFO  [Log] **************************************************************************************** 
+2018-07-23 14:36:27,363 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-23 14:36:27,363 INFO  [Log] **************************************************************************************** 
+2018-07-23 14:36:27,363 INFO  [Log] **************************************************************************************** 
+2018-07-23 14:36:30,740 INFO  [Log] Init Browser OK 
+2018-07-23 14:36:30,743 INFO  [Log] Before navigating to: 'https://aktuelt.osloskolen.no/' 
+2018-07-23 14:36:32,986 INFO  [Log] Navigated to:'https://aktuelt.osloskolen.no/' 
+2018-07-23 14:36:32,986 INFO  [Log] OPen Url OK 
+2018-07-23 14:36:33,364 INFO  [Log] SetEcxel OK 
+2018-07-23 14:36:33,369 INFO  [Log] Getdata OK 
+2018-07-23 14:36:33,369 INFO  [Log] Username picked from Excel is masya010 
+2018-07-23 14:36:33,369 INFO  [Log] Getdata OK 
+2018-07-23 14:36:33,369 INFO  [Log] Password picked from Excel is P0rtalBruker! 
+2018-07-23 14:36:33,392 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //*[@id="divMyPageFrontPage"]/a/div[1]] 
+2018-07-23 14:36:33,442 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //*[@id="divMyPageFrontPage"]/a/div[1]] 
+2018-07-23 14:36:33,659 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> link text: Elever og ansatte] 
+2018-07-23 14:36:34,521 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> link text: Elever og ansatte] 
+2018-07-23 14:36:34,540 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> id: username] 
+2018-07-23 14:36:34,580 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> id: username] 
+2018-07-23 14:36:34,656 INFO  [Log] Username entered in the Username text box 
+2018-07-23 14:36:34,674 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> id: password] 
+2018-07-23 14:36:34,713 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> id: password] 
+2018-07-23 14:36:34,801 INFO  [Log] Password entered in the Password text box 
+2018-07-23 14:36:34,818 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //*[@id="feide:login"]/div/div[3]/form/div[3]/div/button] 
+2018-07-23 14:36:36,851 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //*[@id="feide:login"]/div/div[3]/form/div[3]/div/button] 
+2018-07-23 14:36:36,851 INFO  [Log] Click action performed on Login button 
+2018-07-23 14:36:36,909 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> link text: Meldinger] 
+2018-07-23 14:36:37,602 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> link text: Meldinger] 
+2018-07-23 14:36:37,794 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> link text: Skriv ny melding] 
+2018-07-23 14:36:37,918 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> link text: Skriv ny melding] 
+2018-07-23 14:36:37,968 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> id: btnAddRecivers] 
+2018-07-23 14:36:38,020 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> id: btnAddRecivers] 
+2018-07-23 14:36:39,514 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> css selector: input[value='user']] 
+2018-07-23 14:36:39,567 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> css selector: input[value='user']] 
+2018-07-23 14:36:40,419 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //span[contains(@class,'ng-binding')][contains(text(),'Magnhild Cgi Syversen')]/following::div[2]/a[1]] 
+2018-07-23 14:36:40,495 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //span[contains(@class,'ng-binding')][contains(text(),'Magnhild Cgi Syversen')]/following::div[2]/a[1]] 
+2018-07-23 14:36:40,514 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //button[contains(@class,'btn btn-primary')][contains(text(),'Ok')]] 
+2018-07-23 14:36:40,580 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //button[contains(@class,'btn btn-primary')][contains(text(),'Ok')]] 
+2018-07-23 14:36:41,390 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> id: btnSubmitform] 
+2018-07-23 14:36:41,459 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> id: btnSubmitform] 
+2018-07-23 14:36:41,460 INFO  [Log] Send message OK 
+2018-07-23 14:36:45,510 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //span[contains(@class, 'ng-binding')][contains(text(),'Sendte meldinger')]] 
+2018-07-23 14:36:45,577 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //span[contains(@class, 'ng-binding')][contains(text(),'Sendte meldinger')]] 
+2018-07-23 14:36:45,577 INFO  [Log] Check Sent message OK 
+2018-07-23 14:36:45,982 INFO  [Log] Title from Message: Test message 
+2018-07-23 14:36:46,014 INFO  [Log] Message body from message: This is a test message 
+2018-07-23 14:36:46,031 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //*[@data-action='showToolsDialog']] 
+2018-07-23 14:36:46,093 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //*[@data-action='showToolsDialog']] 
+2018-07-23 14:36:48,115 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //img[@class='header__tools__item__icon'][1]] 
+2018-07-23 14:36:48,178 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //img[@class='header__tools__item__icon'][1]] 
+2018-07-23 14:36:49,250 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //div[@class='idp'][2]] 
+2018-07-23 14:36:51,124 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //div[@class='idp'][2]] 
+2018-07-23 14:36:51,223 INFO  [Log] Trying to click on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //span[@class='lvHighlightAllClass lvHighlightSubjectClass'][1]] 
+2018-07-23 14:36:51,609 INFO  [Log] Clicked on: [[ChromeDriver: chrome on XP (587979a8b917d12851d741d3cdc2e037)] -> xpath: //span[@class='lvHighlightAllClass lvHighlightSubjectClass'][1]] 
+2018-07-23 14:36:53,222 INFO  [Log] Title from Epost: Test message 
+2018-07-23 14:36:53,222 INFO  [Log] Send Message Test OK 
+2018-07-23 14:36:53,222 INFO  [Log] Varsel OK 
+2018-07-23 14:36:53,320 INFO  [Log] Write Data OK 
+2018-07-23 14:36:53,338 INFO  [Log] Write Data OK 
+2018-07-23 14:36:54,114 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-23 14:36:54,114 INFO  [Log] X 
+2018-07-23 14:36:54,114 INFO  [Log] X 
+2018-07-23 14:36:54,114 INFO  [Log] X 
+2018-07-23 14:36:54,114 INFO  [Log] X 
