@@ -1,0 +1,28 @@
+2018-08-13 10:48:45,586 INFO  [Log] **************************************************************************************** 
+2018-08-13 10:48:45,586 INFO  [Log] **************************************************************************************** 
+2018-08-13 10:48:45,586 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-08-13 10:48:45,586 INFO  [Log] **************************************************************************************** 
+2018-08-13 10:48:45,586 INFO  [Log] **************************************************************************************** 
+2018-08-13 10:48:49,222 INFO  [Log] Init Browser OK 
+2018-08-13 10:48:51,007 INFO  [Log] OPen Url OK 
+2018-08-13 10:48:51,368 INFO  [Log] SetEcxel OK 
+2018-08-13 10:48:51,372 INFO  [Log] Getdata OK 
+2018-08-13 10:48:51,372 INFO  [Log] Username picked from Excel is masya010 
+2018-08-13 10:48:51,372 INFO  [Log] Getdata OK 
+2018-08-13 10:48:51,372 INFO  [Log] Password picked from Excel is P0rtalBruker! 
+2018-08-13 10:48:52,683 INFO  [Log] Username entered in the Username text box 
+2018-08-13 10:48:52,973 INFO  [Log] Password entered in the Password text box 
+2018-08-13 10:48:54,844 INFO  [Log] Click action performed on Login button 
+2018-08-13 10:49:03,901 INFO  [Log] Title from Message: Test message 
+2018-08-13 10:49:03,935 INFO  [Log] Message body from message: This is a test message 
+2018-08-13 10:49:03,965 INFO  [Log] Message body from message: 13.08.2018 kl. 10.48 
+2018-08-13 10:49:14,948 INFO  [Log] Title from Epost: Test message 
+2018-08-13 10:49:15,405 INFO  [Log] Send Message Test OK 
+2018-08-13 10:49:15,405 INFO  [Log] Varsel OK 
+2018-08-13 10:49:15,502 INFO  [Log] Write Data OK 
+2018-08-13 10:49:15,523 INFO  [Log] Write Data OK 
+2018-08-13 10:49:15,530 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-08-13 10:49:15,530 INFO  [Log] X 
+2018-08-13 10:49:15,530 INFO  [Log] X 
+2018-08-13 10:49:15,530 INFO  [Log] X 
+2018-08-13 10:49:15,530 INFO  [Log] X 
